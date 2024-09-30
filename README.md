@@ -40,19 +40,9 @@ The app consists of multiple pages:
 
 ---
 
-## Screenshots
+## Challenge rocket project confirmation
 
-### Landing Page
-![Landing Page](../frontend/public/images/Dashboard_dla_nowego_uzytkownika.jpg)
-
-### Courses Page
-![Courses Page](../frontend/public/images/Kurs.png.jpg)
-
-### Chat Page
-![Chat Page](../frontend/public/images/Chat.png)
-
-### Selected Course Page
-![Selected Course Page](../frontend/public/images/task_menu.png)
+[Challenge rocket project demo](https://challengerocket.com/hackyeah-2024/works/get_hired-7cb8d9#go-pagecontent)
 
 ---
 
@@ -139,12 +129,6 @@ Watch the full demo of our application on YouTube:
 
 Watch the full demo of our application on YouTube:  
 [Live Demo](https://hack-yeah2024-hire-me.vercel.app/)
-
----
-
-### Contributions
-
-Feel free to contribute to this project by forking the repository and submitting a pull request. Any improvements or new features are welcome!
 
 ---
 
